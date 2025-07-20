@@ -66,29 +66,7 @@ button:active {
   transform: scale(0.98);
 }
 
-.time-inputs {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-bottom: 20px;
-}
 
-.time-inputs input {
-  width: 60px;
-  padding: 10px;
-  border-radius: 12px;
-  border: 1px solid #e2c5a3;
-  text-align: center;
-  font-size: 1rem;
-  outline: none;
-  transition: border-color 0.3s;
-  background-color: #fffaf4;
-  color: #4a3b30;
-}
-
-.time-inputs input:focus {
-  border-color: #d48b3c;
-}
 .none{
   display: none;
 }

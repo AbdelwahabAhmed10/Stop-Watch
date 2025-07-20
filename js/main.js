@@ -48,12 +48,3 @@ pause.addEventListener("click" , function(){
   start.textContent = 'Resume'
 })
 
-// ////////////////////////////////////Stop Watch \\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-let input_hours = document.getElementById("input_hours");
-let input_minutes = document.getElementById("input_minutes");
-let input_seconds = document.getElementById("input_seconds");
-let countdown_display = document.getElementById("countdown_display");
-let start_timer = document.getElementById("start_timer");
-let stop_timer = document.getElementById("stop_timer");
-let reset_timer = document.getElementById("reset_timer");
